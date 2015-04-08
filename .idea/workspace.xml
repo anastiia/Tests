@@ -1,7 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b52d17b7-0d45-4c5f-bfe8-9bb46a5195ec" name="Default" comment="" />
+    <list default="true" id="b52d17b7-0d45-4c5f-bfe8-9bb46a5195ec" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/RecordOnCources.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/TestSuite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/addCatalog.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/addComments.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/addHotel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/addNews.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/addPublishes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/deleteClaims.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/emptyField.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/yourpackage/tests/zanNewVacancy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/GoogleTestTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-GoogleTestTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.yourpackage.tests.GoogleTestTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.yourpackage.tests.TestSuite.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/com.yourpackage.tests.GoogleTestTest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/surefire-reports/com.yourpackage.tests.TestSuite.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/google-test.iws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428056420078.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428056420078.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428057594494.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428057594494.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428063654695.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428063654695.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428065051481.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428065051481.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428065663933.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428065663933.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428068149797.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428068149797.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428070125555.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428070125555.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071101124.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071101124.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071303437.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071303437.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071601907.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071601907.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071664345.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071664345.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071826631.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428071826631.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428072554114.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428072554114.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428072595956.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428072595956.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311432849.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311432849.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311440597.1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311440597.1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311447868.2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311447868.2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311453058.3.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428311453058.3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312709085.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312709085.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312784849.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312784849.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312912208.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312912208.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312940628.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428312940628.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313015663.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313015663.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313501629.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313501629.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313620720.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428313620720.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428315309968.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428315309968.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428318291984.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428318291984.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428321763965.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428321849302.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428321849302.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428321876576.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428321876576.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428322113570.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428322113570.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428327763945.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428327763945.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328169497.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328169497.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328175396.1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328175396.1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328251439.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328251439.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328257263.1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328257263.1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328341403.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328387346.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328387346.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328393172.1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328393172.1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328451767.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328451767.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328457610.1.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328457610.1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328825906.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328825906.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328865480.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428328865480.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331197457.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331197457.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331487283.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331487283.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331601103.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331601103.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331638513.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331638513.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331749689.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428331749689.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428332130134.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428332130134.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428333839665.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428333839665.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428397145462.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428397145462.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428484875056.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428484875056.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485488379.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485488379.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485766002.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485766002.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485819376.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485819376.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485874380.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428485874380.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487780069.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487780069.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487835331.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487835331.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487998344.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428487998344.0.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428488058105.0.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\agorina\IdeaProjects\google-test\build\reports\tests\1428488058105.0.png" afterPath="" />
+    </list>
     <ignored path="google-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,52 +244,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google-test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reports" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="yourpackage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="emptyField" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,8 +444,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32950193" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
