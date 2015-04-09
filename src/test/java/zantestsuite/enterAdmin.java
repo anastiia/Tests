@@ -27,8 +27,8 @@ public class enterAdmin {
         $(by("type", "submit")).shouldBe(visible);
         $(byText("Вход в систему выполнен.")).waitUntil(disappears,20000);
         $("#q").val("123").submit();
-        //$$("tr").shouldHave(texts("123"));
     }
+
 
 
 }
