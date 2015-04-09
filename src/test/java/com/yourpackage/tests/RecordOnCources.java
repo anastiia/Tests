@@ -24,13 +24,13 @@ public class RecordOnCources {
     public void courseRegistration (){
         open("http://ripk.rnds.pro/course_registries");
         $(By.name("course_registry[fio]")).setValue("Горина А.А.");
-        $(By.name("course_registry[course_id]")).selectOptionByValue("4");
+        $(By.name("course_registry[course_id]")).selectOptionByValue("2");
         $(By.name("course_registry[company]")).setValue("Рнд-Софт");
         $(By.name("course_registry[time]")).setValue("13:30");
         $(By.name("course_registry[phone]")).setValue("22-345-56");
         $(By.name("course_registry[email]")).setValue("agorina@rnd-soft.ru");
         $(By.name("course_registry[additional]")).setValue("нет дополнительной инфомации");
-     $("button").shouldHave(cssClass("top-search__btn")).submit();
+     $("button").click();
 
     }
 }
