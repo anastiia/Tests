@@ -11,7 +11,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
-@Suite.SuiteClasses({ enterAdmin.class, newEmployer.class, zanNewVacancy.class})
+@Suite.SuiteClasses({ enterAdmin.class,newEmployer.class, zanNewVacancy.class})
 
 public class TestSuiteZan {
     public static void main(String[] args) {
