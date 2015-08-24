@@ -29,7 +29,7 @@ public class loginJobSeeker {
     @Test
     public void enteredUser() {
         open("http://77.95.89.219/users/sign_in");
-        $("#user_email").val("employer@ro.ru")    ;
+        $("#user_email").val("employer@ro.ru");
         $("#user_password").val("123123123");
         $(by("value", "Войти")).click();
         $(withText("Вход в систему выполнен.")).shouldBe(visible);
